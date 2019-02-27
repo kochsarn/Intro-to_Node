@@ -2,8 +2,9 @@
   "name": "nodejs",
   "version": "8.12.0",
   "description": "Simple Web App",
-  "main": "Hellofs5.js",
+  "main": "HelloFS5.js",
   "scripts": {
+  "start":"node HelloFS5.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
